@@ -6,8 +6,9 @@
 
 ## Screenshots 🖼️🖼️
 
+![ss](https://user-images.githubusercontent.com/120594033/231528275-68f15327-4d83-4f08-b566-23b0e0625e83.png)
 
-![File-finder-ss](https://user-images.githubusercontent.com/120594033/231421132-188ded84-4a54-4784-9f65-a1ddf20f0751.png)
+
 
 ## Libraries Installation 💿💿
 
